@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**OyaYagiz/OyaYagiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋
 
 - 🎓 Computer Programming Student | Front-End Developer Candidate
 - 🌱 Currently learning front-end development
