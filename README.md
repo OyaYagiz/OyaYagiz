@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋<br>🎓 Computer Programming Student | Front-End Developer Candidate<br>🌱 Currently learning front-end development<br>👯 Open to collaboration on exciting projects<br>💬 Ask me about anything related to programming or my projects<br>📫 How to reach me: https://www.linkedin.com/in/oya-yagiz/</h2>
+<h2 align="left">Hi there 👋<br>-- Computer Programming Student | Front-End Developer Candidate<br>-- Currently learning front-end development<br>-- Open to collaboration on exciting projects<br>-- Ask me about anything related to programming or my projects<br>📫 How to reach me: https://www.linkedin.com/in/oya-yagiz/</h2>
 
 ###
 
